@@ -1,0 +1,21 @@
+execution_start,execution_end,tc_id,type,status,tester,priority,feature,categoty
+2024-11-26 22:20:47,2024-11-26 22:25:29,BKG001,manual,pass,Alice,high,Search Flights,Booking
+2024-11-26 22:08:30,2024-11-26 22:13:14,BKG002,automated,fail,Bob,medium,Reserve Hotel,Booking
+2024-11-26 22:12:58,2024-11-26 22:18:23,BKG003,manual,not ready,Charlie,low,Cancel Reservation,Booking
+2024-11-26 22:11:12,2024-11-26 22:15:41,BKG004,automated,not run,Dana,high,View Itinerary,Booking
+2024-11-26 22:01:25,2024-11-26 22:06:49,BKG005,manual,pass,Bob,medium,Add Payment Method,Payments
+2024-11-26 22:05:57,2024-11-26 22:11:06,BKG006,automated,fail,Alice,low,Flight Confirmation,Booking
+2024-11-26 22:09:13,2024-11-26 22:15:27,BKG007,manual,pass,Charlie,high,Check Hotel Availability,Booking
+2024-11-26 22:14:01,2024-11-26 22:18:45,BKG008,automated,not ready,Dana,medium,Flight Seat Selection,Booking
+2024-11-26 22:00:54,2024-11-26 22:07:32,BKG009,manual,fail,Bob,low,Change Reservation,Booking
+2024-11-26 22:10:03,2024-11-26 22:16:40,BKG010,automated,pass,Alice,high,View Hotel Details,Booking
+2024-11-26 22:07:19,2024-11-26 22:13:05,BKG011,manual,not ready,Charlie,medium,Customer Reviews,Booking
+2024-11-26 22:13:50,2024-11-26 22:19:12,BKG012,automated,pass,Dana,low,Flight Search Filters,Booking
+2024-11-26 22:08:16,2024-11-26 22:14:01,BKG013,manual,fail,Bob,high,Apply Promo Code,Discounts
+2024-11-26 22:02:25,2024-11-26 22:09:38,BKG014,automated,pass,Alice,medium,Hotel Room Booking,Booking
+2024-11-26 22:11:07,2024-11-26 22:15:49,BKG015,manual,not ready,Charlie,low,Manage Payment Methods,Payments
+2024-11-26 22:04:31,2024-11-26 22:11:20,BKG016,automated,fail,Dana,high,View Booking History,Booking
+2024-11-26 22:06:55,2024-11-26 22:13:19,BKG017,manual,pass,Bob,medium,Flight Status Updates,Booking
+2024-11-26 22:09:32,2024-11-26 22:16:22,BKG018,automated,pass,Alice,low,Confirm Booking,Booking
+2024-11-26 22:02:16,2024-11-26 22:07:51,BKG019,manual,fail,Charlie,high,Cancel Hotel Reservation,Booking
+2024-11-26 22:11:48,2024-11-26 22:18:07,BKG020,automated,pass,Dana,medium,Contact Support,Customer Service

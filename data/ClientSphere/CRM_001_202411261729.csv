@@ -1,0 +1,21 @@
+execution_start,execution_end,tc_id,type,status,tester,priority,feature,categoty
+2024-11-26 22:15:34,2024-11-26 22:20:12,CRM001,manual,pass,Charlie,high,Customer Login,Authentication
+2024-11-26 22:01:45,2024-11-26 22:07:12,CRM002,automated,fail,Bob,medium,Create New Account,Account Management
+2024-11-26 22:11:53,2024-11-26 22:15:31,CRM003,manual,pass,Alice,low,View Customer Profile,Customer Data
+2024-11-26 22:09:10,2024-11-26 22:16:40,CRM004,automated,not ready,Dana,high,Edit Customer Information,Customer Data
+2024-11-26 22:05:03,2024-11-26 22:10:15,CRM005,manual,not run,Bob,medium,Customer Support Chat,Support
+2024-11-26 22:12:45,2024-11-26 22:19:22,CRM006,automated,pass,Charlie,low,Search Customers,Search
+2024-11-26 22:03:09,2024-11-26 22:07:53,CRM007,manual,fail,Alice,high,Update Customer Status,Customer Data
+2024-11-26 22:13:35,2024-11-26 22:21:48,CRM008,automated,pass,Bob,medium,Send Bulk Emails,Marketing
+2024-11-26 22:06:12,2024-11-26 22:14:09,CRM009,manual,not ready,Charlie,low,Generate Reports,Analytics
+2024-11-26 22:10:39,2024-11-26 22:15:59,CRM010,automated,pass,Dana,high,Export Customer Data,Data Management
+2024-11-26 22:02:45,2024-11-26 22:09:34,CRM011,manual,not run,Bob,medium,Set Customer Preferences,User Settings
+2024-11-26 22:14:20,2024-11-26 22:18:40,CRM012,automated,fail,Alice,low,Add Notes to Customer,Customer Data
+2024-11-26 22:07:31,2024-11-26 22:13:52,CRM013,manual,pass,Charlie,high,Customer Interaction History,History
+2024-11-26 22:08:04,2024-11-26 22:12:26,CRM014,automated,not ready,Dana,medium,Lead Management,Sales
+2024-11-26 22:04:33,2024-11-26 22:11:08,CRM015,manual,fail,Bob,low,Customer Loyalty Program,Marketing
+2024-11-26 22:05:24,2024-11-26 22:10:53,CRM016,automated,pass,Alice,high,Monitor Customer Behavior,Analytics
+2024-11-26 22:09:32,2024-11-26 22:16:24,CRM017,manual,not ready,Charlie,medium,Customer Feedback,Support
+2024-11-26 22:11:50,2024-11-26 22:18:55,CRM018,automated,pass,Dana,low,Automated Responses,Support
+2024-11-26 22:10:13,2024-11-26 22:15:46,CRM019,manual,fail,Bob,high,Close Customer Tickets,Support
+2024-11-26 22:01:12,2024-11-26 22:06:55,CRM020,automated,pass,Alice,medium,View Account Activity,Analytics

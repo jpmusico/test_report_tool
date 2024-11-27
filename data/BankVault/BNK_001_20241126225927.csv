@@ -1,0 +1,11 @@
+execution_start,execution_end,tc_id,type,status,tester,priority,feature,categoty
+2024-11-26 21:33:34,2024-11-26 21:42:16,TC001,manual,not run,Alice,high,Account Balance Check,Core Functionality
+2024-11-26 21:01:47,2024-11-26 21:07:50,TC002,automated,pass,Bob,medium,Fund Transfer,Transactions
+2024-11-26 21:40:55,2024-11-26 21:46:28,TC003,manual,fail,Charlie,low,Bill Payments,Payments
+2024-11-26 21:35:22,2024-11-26 21:47:16,TC004,automated,not ready,Dana,high,Loan Applications,Loans
+2024-11-26 21:18:11,2024-11-26 21:32:50,TC005,manual,not run,Bob,medium,Transaction History,Reporting
+2024-11-26 21:02:27,2024-11-26 21:16:33,TC006,automated,pass,Alice,low,Mobile Deposits,Deposits
+2024-11-26 21:22:53,2024-11-26 21:31:27,TC007,manual,deprecated,Charlie,medium,Credit Card Management,Card Services
+2024-11-26 21:09:12,2024-11-26 21:20:56,TC008,automated,fail,Dana,high,Two-Factor Authentication,Security
+2024-11-26 21:37:01,2024-11-26 21:41:19,TC009,manual,pass,Alice,low,Fraud Alerts,Fraud Detection
+2024-11-26 21:17:18,2024-11-26 21:30:26,TC010,manual,not ready,Bob,medium,Secure Messaging,Communication
