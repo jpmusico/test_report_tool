@@ -3,6 +3,8 @@ import os
 import pandas as pd
 import plotly.express as px
 
+from openai_helper import generate_insights
+
 # Set up main app title
 st.title("Test Execution Report Tool")
 
@@ -89,6 +91,14 @@ if projects:
         # Display the combined data
         st.subheader(f"Aggregated Data for {selected_project}")
         st.dataframe(aggregated_data)
+
+        st.subheader("Automated Test Insights")
+        if not aggregated_data.empty:
+            if st.button("Generate Insights"):
+                insights = generate_insights(aggregated_data)
+                st.text_area("Test Execution Insights", insights, height=200)
+        else:
+            st.write("No data available for insights.")
         
     else:
         st.warning(f"No CSV files found in {selected_project}.")
